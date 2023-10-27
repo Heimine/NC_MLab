@@ -12,7 +12,7 @@ We study deep neural networks for the multi-label classification (MLab) task thr
 
 ## Environment
 
-Please check the requirement.txt
+Please check the requirement.sh
 
 ## Create Multi-Label datasets with MNIST and CIFAR-10
 
